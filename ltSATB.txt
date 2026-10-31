@@ -1,0 +1,6 @@
+key: C major
+chords: V I
+S: B4 G4
+A: D4 E4
+T: G3 G3
+B: G2 C3

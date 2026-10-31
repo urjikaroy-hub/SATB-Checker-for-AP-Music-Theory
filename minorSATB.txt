@@ -1,0 +1,6 @@
+key: A minor
+chords: V i
+S: B4 C5
+A: G4 E4
+T: E4 E4
+B: E3 A2

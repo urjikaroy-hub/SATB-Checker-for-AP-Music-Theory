@@ -1,0 +1,6 @@
+key: C major
+chords: I
+S: F5
+A: C4
+T: G4
+B: C2
